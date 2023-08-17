@@ -11,13 +11,10 @@ import {
   nodejs,
   mongodb,
   git,
-  figma,
   docker,
   ampath,
-  threejs,
   next,
   materialui,
-  prisma,
   admin,
   store,
   booking,
@@ -101,20 +98,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Prisma",
-    icon: prisma,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
-  },
-  {
-    name: "figma",
-    icon: figma,
   },
   {
     name: "docker",
@@ -177,6 +162,8 @@ const projects = [
     image: admin,
     source_code_link:
       "https://github.com/sharleenawinja/full-stack-e-commerce/tree/main/ecommerce-admin",
+    live_site:
+      "https://full-stack-e-commerce-theta.vercel.app/sign-in?redirect_url=https%3A%2F%2Ffull-stack-e-commerce-theta.vercel.app%2F",
   },
   {
     name: "E-commerce store",
@@ -199,6 +186,7 @@ const projects = [
     image: store,
     source_code_link:
       "https://github.com/sharleenawinja/full-stack-e-commerce/tree/main/ecommerce-store",
+    live_site: "https://full-stack-e-commerce-8eyf.vercel.app/",
   },
   {
     name: "Booking app",
@@ -229,6 +217,7 @@ const projects = [
     image: booking,
     source_code_link:
       "https://github.com/sharleenawinja/airbnb-clone/tree/main",
+    live_site: "https://booking-web-app-pied.vercel.app/",
   },
   {
     name: "Gym",
@@ -251,6 +240,7 @@ const projects = [
     image: gym,
     source_code_link:
       "https://github.com/sharleenawinja/react-typescript-fitness-app",
+    live_site: "https://react-typescript-fitness-app.vercel.app/",
   },
   {
     name: "Admin Dashboard",
@@ -277,6 +267,7 @@ const projects = [
     image: admindash,
     source_code_link:
       "https://github.com/sharleenawinja/admin_dashboard/tree/main",
+    live_site: "https://admin-dashboard-frontend-bbjm.onrender.com/",
   },
 ];
 
