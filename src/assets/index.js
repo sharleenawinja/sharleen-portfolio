@@ -24,6 +24,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
 import ampath from "./company/ampath.jpeg";
+import openmrs from "./company/openmrs.png";
 
 import admin from "./ecommerce-admin.png";
 import store from "./ecommerce-store.png";
@@ -56,6 +57,7 @@ export {
   typescript,
   threejs,
   ampath,
+  openmrs,
   admin,
   store,
   booking,
