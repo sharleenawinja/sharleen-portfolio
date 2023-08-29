@@ -114,7 +114,7 @@ const experiences = [
     company_name: "USAID AMPATH Kenya",
     icon: ampath,
     iconBg: "#383E56",
-    date: "January 2019 - June 2020",
+    date: "January 2019 - June 2019",
     points: [
       "Developed a streamlined application empowering the quality assurance team to efficiently execute tasks traditionally managed by the on-call developers.",
       "Increased code test coverage by 33% by writing more unit and integration tests.",
